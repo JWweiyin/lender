@@ -1,3 +1,5 @@
+package main.java;
+
 public class LoanManager {
     private Loan[] loans = new Loan[100];
     private int loansCount = 0;
